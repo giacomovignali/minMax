@@ -1,0 +1,13 @@
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\bin\Debug\netcoreapp3.1\minMax.exe
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\bin\Debug\netcoreapp3.1\minMax.deps.json
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\bin\Debug\netcoreapp3.1\minMax.runtimeconfig.json
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\bin\Debug\netcoreapp3.1\minMax.runtimeconfig.dev.json
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\bin\Debug\netcoreapp3.1\minMax.dll
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\bin\Debug\netcoreapp3.1\minMax.pdb
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\obj\Debug\netcoreapp3.1\minMax.csproj.AssemblyReference.cache
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\obj\Debug\netcoreapp3.1\minMax.AssemblyInfoInputs.cache
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\obj\Debug\netcoreapp3.1\minMax.AssemblyInfo.cs
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\obj\Debug\netcoreapp3.1\minMax.csproj.CoreCompileInputs.cache
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\obj\Debug\netcoreapp3.1\minMax.dll
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\obj\Debug\netcoreapp3.1\minMax.pdb
+C:\Users\giacomo.vignali.ITT\Desktop\minMax\minMax\obj\Debug\netcoreapp3.1\minMax.genruntimeconfig.cache
